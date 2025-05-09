@@ -1,0 +1,10 @@
+{
+  "min_confidence": 0.2,
+  "min_price": 0.2,
+  "max_active_signals": 9,
+  "signal_throttle_hours": 24,
+"telegram": {
+  "token": "7633147170:AAGTGmkeVSnCdBnO8d5Pzxx7v7WzNBfhSNI",
+  "chat_id": "5829074137"
+}
+}
